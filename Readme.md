@@ -26,10 +26,10 @@ This genoset is to be used with DNA-JSON. See [dna2json](https://github.com/geno
 ## Usage
 
 ```js
-var lowHeartAttackRisk = require('genoset-291');
-var dna = require('./dna.json');
+var lowHeartAttackRisk = require('genoset-291')
+var dna = require('./dna.json')
 
-console.log(lowHeartAttackRisk(dna));
+console.log(lowHeartAttackRisk(dna))
 // → `true` or `false`
 ```
 
