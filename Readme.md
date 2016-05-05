@@ -1,4 +1,5 @@
 # genoset-248
+[![Build Status](https://travis-ci.org/calweb/genoset-291.png?branch=master)](https://travis-ci.org/calweb/genoset-291)
 
 Use this module to help determine if your genome is lower risk for [heart attack or cardiovascular incident](http://www.snpedia.com/index.php/Gs291).
 
