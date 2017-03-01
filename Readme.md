@@ -15,7 +15,7 @@ Use this module to help determine if your genome is lower risk for [heart attack
 </tr>
 <tr>
 <td>Node Version</td>
-<td>~ 5.5</td>
+<td>~ 6.9.1</td>
 </tr>
 </table>
 
